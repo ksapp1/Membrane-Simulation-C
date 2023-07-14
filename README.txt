@@ -1,5 +1,3 @@
-VESICLE_SIM
-
 INTRODUCTION:
 
 vesicle_sim is a C program that performs numerical simulations of vesicles, either approximated as a plane or a sphere, coupled to the diffusion curvature dependent lipids.
