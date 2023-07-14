@@ -1,0 +1,12 @@
+do_planar	no
+T		0.592
+r		8.442806489
+kc		20
+chi		0.4
+c0		340.0
+eta		0.128
+Ap		6.34e-7
+D0		8.0
+mode_max	30
+Nsteps		7000
+rate		0.01
